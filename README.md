@@ -70,3 +70,10 @@ npm run start
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
 
 ### Project is deployed on AWS 🎉
+
+1. How to create a IAM USER and Login 
+2. How to create EC2 Instance ? What are some of the good practices ?
+3. How to access the EC2 Instance ?
+4. Deploy an application on to AWS EC2 ?
+5. Expose the application to outside world ?
+6. Access the application deployed on AWS from your laptop.
